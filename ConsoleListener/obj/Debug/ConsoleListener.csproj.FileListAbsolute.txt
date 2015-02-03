@@ -1,0 +1,10 @@
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\bin\Debug\ConsoleListener.exe.config
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\bin\Debug\ConsoleListener.exe
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\bin\Debug\ConsoleListener.pdb
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\obj\Debug\ConsoleListener.Form1.resources
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\obj\Debug\ConsoleListener.Properties.Resources.resources
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\obj\Debug\ConsoleListener.csproj.GenerateResource.Cache
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\obj\Debug\ConsoleListener.exe
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\obj\Debug\ConsoleListener.pdb
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\bin\Debug\InputSimulator.dll
+D:\Workspace\Visual Studio\C#\ConsoleListener\ConsoleListener\bin\Debug\InputSimulator.xml
